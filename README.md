@@ -10,9 +10,9 @@
       <section class="content" id="about">
         <h2>About Me</h2>
         <p>
-            I'm Sandun Liyanage, a passionate software engineer specializing in software development, 
+                  I'm Sandun Liyanage, a passionate software engineer specializing in software development, 
             GitHub Actions automation, and assembly language programming. With extensive experience 
-            in creating robust software solutions, I always strive to deliver clean, maintainable code.
+            in creating robust software solutions, I always strive to deliver clean, maintainable code
         </p>
     </section>
     <section class="content" id="projects">
